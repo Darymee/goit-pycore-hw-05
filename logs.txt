@@ -1,0 +1,10 @@
+2025-03-22 12:00:00 INFO Starting process
+2025-03-22 12:05:00 ERROR Something went wrong
+2025-03-22 12:10:00 DEBUG Debugging process
+2025-03-22 12:15:00 INFO Process completed successfully
+2025-03-22 12:20:00 WARNING High memory usage detected
+2025-03-22 12:25:00 ERROR Failed to load configuration
+2025-03-22 12:30:00 INFO Server started
+2025-03-22 12:35:00 DEBUG Checking system status
+2025-03-22 12:40:00 WARNING Low disk space
+2025-03-22 12:45:00 ERROR Unable to connect to database
